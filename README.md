@@ -157,8 +157,6 @@ cargo check -p opencode-tui
 ## Documentation
 
 - User guide: `USER_GUIDE.md`
-- **Web frontend** (browser coding UI from upstream): `WEB_FRONTEND.md`
-- **Testing Rust (unit + E2E):** `TESTS_AGAINST_RUST.md`
 - Docs index: `docs/README.md`
 - CLI: `docs/opencode-cli.md`
 - TUI: `docs/opencode-tui.md`
